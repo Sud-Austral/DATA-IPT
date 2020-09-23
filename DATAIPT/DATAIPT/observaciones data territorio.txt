@@ -1,0 +1,80 @@
+Página 1 <1 de 13>
+	OBSERVACIONES: -El intrumento "Plan Intercomunal" se debe llamar "Plan Regulador Intercomunal"
+
+Página 2 (Plan Regional de Desarrollo Urbano) <4 de 13>
+	Título, "Estado de los Planes Regionales de Desarrollo Urbano (PRDU)"
+	OBSERVACIONES: -Al poner el cursor en el mapa, todas la regiones tiene id 1
+		       
+Página 3 (Plan Regulador Metropolitano) <5 de 13>
+	Título, "Estado de los Planes Reguladores Metropolitanos (PRM)"
+	OBSERVACIONES: -El Mapa no muestra las dos comunas con PRM
+		       -Al poner el cursor en el mapa, todas la regiones tiene id 1
+		       -EL botón que dice "Regiones en que NO APLICA PRM" debería decir "Regiones que NO poseen PRM" y deberían ser 14
+		       -El diagrama de torta también está malo (debería decir Vigente 2 y No posee 14)
+		       -¿Por qué no aparece la comuna en la tabla "Detalle de Planes Reguladores Metropolitanos VIGENTES" como en la tabla de los PRI?
+		       -El cuadro "Detalle Planes Reguladores Metropolitanos VIGENTES" debería agregar la columna "Actualización/Nombre" que nombra (especifica) lo que está vigente para que no haya confusiones si existiera más de un PRM
+
+Página 4 (Plan Intercomunal) Debería llamarse (Plan Regulador Intercomunal) <6 de 13>
+	Título, "Estado de los Planes Reguladores Intercomunales (PRI) por comuna"
+	OBSERVACIONES: -Al poner el cursor en el mapa, todas la regiones tiene id 1
+		       -El número de "Regiones sin de Planes Intercomunales" debería ser 9, no 16
+		       -El botón "Regiones sin de Planes Intercomunales" debería llamarse "Regiones que NO poseen PRI"
+		       -El diagrama de torta también está erroneo
+		       -El título de mapa "Visualización Geográfica de Regiones según ESTADO de Planes Intercomunales" debería llamarse "Visualización Geográfica de Regiones según ESTADO de Planes Reguladores Intercomunales"
+		       -TODO LO QUE DIGA PLAN INTERCOMUNAL DEBE SER LLAMADO PLAN REGULADOR INTERCOMUNAL
+		       -Al clickear la flecha para quitar todos los filtros, me manda a una nueva página <2 de 13> no al la misma página son filtros
+		       -El cuadro "Detalle Planes Intercomunales VIGENTES" debería agregar la columna "Actualización/Nombre" que nombra (especifica) el nombre del PRI referido para que no haya confusiones si existiera más de un PRI
+
+Página 5 (Plan Regulador Comunal) <7 de 13> 
+	Título, "Estado de los Planes Reguladores Comunales (PRC)"
+	OBSERVACIONES: -Al poner el cursor en el mapa, todas la regiones tiene id 1
+		       -El botón que dice "Regiones con Planes Reguladores Comunales Vigente: 14" debería decir "Regiones que poseen una o más comunas con Planes Reguladores Comunales VIGENTES: 15" (Sólo la región de Los Rios no posee PRC)
+ 		       -El botón que dice "Regiones sin de Planes Itercomunales: 15" debería decir "Regiones que no poseen ninguna comuna con su Plan Regulador Comunal VIGENTE: 1"
+		       -El botón que dice "Comunas con Planes Intercomunales VIGENTES: 322" debería decir "Comunas con Planes Reguladores Comunales VIGENTES: 233¨(Sacar este dato del Excel DataIPT, hoja Tabal Regiones en el DRIVE) 
+		       -El botón que dice "Comunas con Planes Intercomunales VIGENTES: 209" debería decir "Comunas que NO posee Planes Reguladores Comunales: 112¨(Sacar este dato del Excel DataIPT, hoja Tabal Regiones en el DRIVE) 
+		       -Al clickear la flecha para quitar todos los filtros, me manda a una nueva página <2 de 13> no al la misma página son filtros
+		       -El cuadro "Detalle Planes Intercomunales VIGENTES" debería agregar la columna "Actualización/Nombre" que nombra (especifica) el nombre del PRC referido para que no haya confusiones si existiera más de un PRC VIGENTE
+
+Página 6 (Plan Seccional) <8 de 13>
+	Título, "Estado de los Planes Seccionales (PS) de cada comuna"
+	OBSERVACIONES: -En el mapa en las comunas que no posee PS, aparece 'no data'
+		       -Al poner el cursor en el mapa, todas la regiones si tienen data tienen id 1
+		       -El botón "Regiones: 6" debería decir "Regiones: 16"
+		       -El botón "Regiones sin Planes Seccionales: (Blank)" debería decir "Regiones que no poseen ninguna comuna con un Plan Seccional VIGENTE: 10"(Sacar este dato del Excel DataIPT, hoja Tabal Regiones en el DRIVE)
+		       -El botón "Regiones con Planes Seccionales VIGENTES: 8" debería decir "Regiones con Planes Seccionales VIGENTES: 6"(Sacar este dato del Excel DataIPT, hoja Tabal Regiones en el DRIVE)
+		       -El botón "Comunas sin Planes Seccionales:8¨ debería decir "Comunas sin planes seccionales: 337" (345 comunas - las 8 que si poseen)
+		       -El diagrama de torta está malo
+
+Página 6 (Límite Urbano) <9 de 13>
+	Título, "Estado de los Límites Urbanos (LU) de cada comuna"
+	OBSERVACIONES: -En el mapa en las comunas que no posee PS, aparece 'no data'
+		       -Al poner el cursor en el mapa, todas la regiones si tienen data tienen id 1
+		       -El botón "Regiones: 7" debería decir "Regiones: 16"
+		       -El botón "Regiones sin Límite Urbano: (Blank)" debería decir "Regiones que no poseen ninguna comuna con un Límite Urbano VIGENTE: 9"(Sacar este dato del Excel DataIPT, hoja Tabal Regiones en el DRIVE)
+		       -El boton "Comunas sin Límite Urbano: 15" debería decir "Comunas sin Límite Urbano: 330" (345 comunas - 15 que si poseen límite urbano)
+		       -El diagrama de torta está malo
+
+Página 7 (Detalle Comuna) <2 de 13>
+	Título,"Detalle de Intrumentos de Planificación Territorial [IPT] por Región y Comuna"
+	OBSERVACIONES: -En la esquina izquierda dónde aparece el nombre de la comuna, cuando aún no hay nada seleccionado aparece un nombre por default
+
+Página 8 (Análisis Regional) <3 de 13>
+	Título,"Detalle de Intrumentos de Planificación Territorial [IPT] por Región y Comuna"
+	OBSERVACIONES: -La fecha de los PRDU en estado En Formulación está mal
+
+Página 9 (Análisis Comunal) <11 de 13>
+	Título,"Detalle de Intrumentos de Planificación Territorial [IPT] por Región y Comuna"
+	OBSERVACIONES: -El recuento de Atacama está mal, debería ser 8 no 17
+		       -El recuento de Aysen está mal, debería ser 1 no 11
+		       -El recuento de Biobio está mal, debe ser 44 no 77
+		       -El recuento de La Araucanía está mal, debe ser 22 no 54
+		       -El recuento de Los Lagos está mal, debe ser 18 no 48
+		       -El recuento de Los Ríos está mal, debe ser 0 no 12
+		       -El recuento de Magallanes está mal, debe ser 7 no 17
+		       -El recuento de Maule está mal, debe ser 18 no 48
+		       -El recuento de Metropolitana está mal, debe ser 84 no 136
+		       -El recuento de Ñuble está mal, debe ser 19 no 40
+		       -El recuento de Tarapacá está mal, debe ser 5 no 12
+		       -El recuento de Valparaíso está mal, debe ser 44 no 82
+
+			*Creo que está sumando el número de comunas de cada región al número de IPT*
